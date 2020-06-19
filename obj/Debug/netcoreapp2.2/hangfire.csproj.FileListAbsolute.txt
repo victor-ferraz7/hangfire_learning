@@ -1,0 +1,16 @@
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\hangfire.deps.json
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\hangfire.runtimeconfig.json
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\hangfire.runtimeconfig.dev.json
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\hangfire.dll
+C:\Users\Victor Ferraz\Desktop\hangfire\bin\Debug\netcoreapp2.2\hangfire.pdb
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.csprojAssemblyReference.cache
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.RazorAssemblyInfo.cache
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.RazorAssemblyInfo.cs
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.AssemblyInfoInputs.cache
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.AssemblyInfo.cs
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.RazorTargetAssemblyInfo.cache
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.dll
+C:\Users\Victor Ferraz\Desktop\hangfire\obj\Debug\netcoreapp2.2\hangfire.pdb
