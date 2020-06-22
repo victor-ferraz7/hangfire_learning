@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Hangfire;
 using Hangfire.PostgreSql;
+using Hangfire.Dashboard;
 
 namespace hangfire
 {
@@ -38,7 +39,11 @@ namespace hangfire
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseHangfireDashboard();
+            app.UseHangfireDashboard("/jobs", new DashboardOptions {
+                AppPath = "http://vem-no-teste.com",
+                IsReadOnlyFunc = (DashboardContext  context) => true
+            });
+            
             backgroundJobs.Enqueue(() => Console.WriteLine("Hello world from Hangfire!"));
 
             app.Run(async (context) =>
